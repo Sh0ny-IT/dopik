@@ -14,6 +14,7 @@ function App() {
 
     const [show, setShow] = useState<ShowType[]>([])
 
+
     // const a = 100200
     //call back вызов
     const useShowUp = () => {
